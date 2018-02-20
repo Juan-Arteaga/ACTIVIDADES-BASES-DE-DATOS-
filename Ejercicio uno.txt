@@ -1,0 +1,67 @@
+Ejercicio 1.
+
+El ministerio de la salud desea mantener un sistema de información relativo a hospitales.
+A continuación se detalla lo que se desea modelar:
+
+HOSPITAL, con los datos:
+• código, que lo identifica.
+• nombre
+• dirección
+• teléfono
+• cantidad de camas
+SALA, con los datos:
+• código
+• nombre
+• cantidad de camas
+MEDICO, con los datos:
+• cédula de identidad
+• nombre
+• especialidad
+LABORATORIO, con los datos:
+• código, que lo identifica.
+• nombre
+• dirección
+• teléfono
+PACIENTE, con los datos:
+• cédula de identidad
+• número de registro
+• número de cama
+• nombre
+• dirección
+• fecha de nacimiento
+• sexo
+DIAGNOSTICO, con los datos:
+• código, que lo identifica.
+• tipo
+• complicaciones
+
+
+
+Además se sabe que:
+
+• Cada hospital tiene varias salas. Cada una de ellas pertenece a un solo hospital. En
+distintos hospitales puede "haber salas con el mismo código", pero esto no puede ocurrir
+dentro de un hospital. 
+
+       (lo que está dentro de las comillas es un error, ya que varias salas no pueden tener el mismo codigo)
+
+
+
+• Cada médico trabaja en un único hospital. 
+
+
+• Cada hospital trabaja con muchos laboratorios, y un laboratorio presta servicios a más de
+un hospital. Interesa conocer la descripción de cada servicio y la fecha en que se realizó.
+• Un paciente puede estar internado en una única sala.
+
+• Cada paciente puede ser atendido por más de un médico, y a su vez cada médico
+atenderá varios pacientes. Interesa conocer las fechas de las atenciones.
+
+• Cada paciente puede tener varios diagnósticos. Interesa saber la fecha en que se realizó
+cada uno.
+
+ 
+Modelo Entidad Relación : IMAGEN-1
+
+
+
