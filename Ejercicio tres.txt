@@ -1,0 +1,9 @@
+Se pretende modelar la cantidad de goles que hizo un jugador a lo largo de su vida en cada
+equipo en que jugó. Tanto de los jugadores como de los equipos se conoce su nombre.
+Discutir la posibilidad de representar las siguientes opciones, marcando errores y
+corrigiéndolos en el MER propuesto:
+1. Representar los goles realizados por un jugador en cada temporada (identificada por
+el año)
+2. Representar los goles realizados por un jugador en los distintos campeonatos que jugó
+en cada equipo. Cada campeonato se identifica por un código y se conoce su nombre y el año
+en que se jugó. 
