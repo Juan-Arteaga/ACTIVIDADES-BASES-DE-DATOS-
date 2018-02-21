@@ -1,0 +1,11 @@
+La secretaría del MERCOSUR desea diseñar un sistema de información sobre relaciones
+comerciales y diplomáticas entre paises. Cada pais se identifica por su nombre, mientras que
+de cada producto se conoce su nombre y una breve descripción. Se desea modelar que:
+
+• Un país puede tener relaciones diplomáticas con varios países, interesando saber en
+qué fecha se establecieron.
+
+• Por otro lado interesa modelar el flujo de productos de un país a otro. (por ej. : un país
+que exporta un producto, ¿hacia dónde lo hace?)
+
+Modelo Entidad Relación : IMAGEN-2
