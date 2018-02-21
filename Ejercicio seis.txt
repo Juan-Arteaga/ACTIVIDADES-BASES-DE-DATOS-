@@ -1,0 +1,13 @@
+Una cadena de restaurantes ha relevado información acerca de los clientes y sus preferencias.
+De cada persona, identificada por su cédula de identidad, se conoce su nombre, el restaurant que frecuenta más y las comidas que mas le gustan. 
+De cada restaurant, identificado por su nombre, se conoce las comidas que preparan.
+De cada comida se conoce su nombre, que la identifica, el tiempo de preparación y los ingredientes principales. 
+ 
+. Diseñar un MER que represente la realidad anterior b. Modificar el MER anterior para representar la información anterior considerando la siguientes restricciones. 
+ 
+• Un restaurante no vende más de 10 comidas. • Una persona frecuenta varios restaurantes. 
+
+• A una persona no le gusta una comida por sí sola sino cómo la sirven en determinados restaurantes
+
+
+Modelo Entidad Relacion: Imagen-6
