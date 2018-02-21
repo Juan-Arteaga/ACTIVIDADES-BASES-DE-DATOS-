@@ -1,0 +1,5 @@
+Dado un conjunto de personas se desea modelar los vínculos entre los padres biológicos y
+sus hijos mediante el siguiente MER:
+
+a. Discutir su representatividad.
+b. Plantear un nuevo modelo que represente esta realidad. 
