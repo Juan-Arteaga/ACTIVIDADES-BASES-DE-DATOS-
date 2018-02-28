@@ -1,0 +1,15 @@
+Ejercicio 7.
+
+- El siguiente MER representa la información modela un sistema de corrección de
+exámenes.
+Restricción: Corregido, Corrector y Recorrector deben ser distintos entre sí
+
+Indique cuales de las opciones a continuación son correctas:
+a. Cada estudiante corrige sólo a 1 estudiante (correcta)
+b. Un estudiante puede corregirse a si mismo   (incorrecta)
+c. Todos los estudiantes son corregidos por alguien (correcta)
+d. Todo estudiante corregido es re-corregido por algún estudiante (correcta)
+e. La nota de corrección y la de re-corrección son diferentes (correcta)
+
+
+MER= IMAGEN-7
